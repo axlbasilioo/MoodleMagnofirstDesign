@@ -1,0 +1,7 @@
+{
+  "name": "MagnoMoodleApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
